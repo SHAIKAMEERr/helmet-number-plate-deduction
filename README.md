@@ -113,7 +113,7 @@ This repository is licensed under the [MIT License]().
 
 **Shaik Ameer**
 
-Connect with me on [Connect](https://www.linkedin.com/in/ameer-shaikk/).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/ameer-shaikk/).
 
 ---
 
